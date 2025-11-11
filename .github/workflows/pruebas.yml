@@ -1,0 +1,6 @@
+name: CI PRUEBAS autorizadas (develop)
+
+on:
+  push:
+    branches:
+      - main
